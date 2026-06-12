@@ -1,0 +1,24 @@
+# 老虎
+DOMAIN-SUFFIX,tigerbrokers.com,PROXY
+DOMAIN-SUFFIX,ir.itigerup.com,PROXY
+DOMAIN-SUFFIX,itiger.com,PROXY
+DOMAIN-SUFFIX,tigerbrokers.com.sg,PROXY
+DOMAIN-SUFFIX,tigerbrokers.com.hk,PROXY
+
+# 长桥
+DOMAIN-SUFFIX,lbkrs.com,PROXY
+DOMAIN-SUFFIX,longbridge.app,PROXY
+DOMAIN-SUFFIX,longbridge.global,PROXY
+DOMAIN-SUFFIX,longportapp.com,PROXY
+DOMAIN-SUFFIX,longbridge.com,PROXY
+DOMAIN-SUFFIX,longbridge.hk,PROXY
+DOMAIN-SUFFIX,longbridgehk.com,PROXY
+DOMAIN-SUFFIX,longbridge.sg,PROXY
+DOMAIN-SUFFIX,longbridge.cn,PROXY
+DOMAIN-SUFFIX,longportapp.cn,PROXY
+
+# 富途
+DOMAIN-SUFFIX,futuholdings.com,PROXY
+DOMAIN-SUFFIX,futunn.com,PROXY
+DOMAIN-SUFFIX,moomoo.com,PROXY
+DOMAIN-SUFFIX,moomooapp.com,PROXY
